@@ -14,5 +14,6 @@ public class  TiposPrimitivos02 {
         char caracteredois = 80;
         System.out.print("A idade é "+age+"anos");
         System.out.print(caracteredois);
+        System.out.println();
     }
 }
