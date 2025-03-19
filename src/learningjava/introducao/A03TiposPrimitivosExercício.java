@@ -5,7 +5,7 @@ Crie variáveis para os campos descritos abaixo entre <> e imprima a seguinte me
 Eu <nome>, morando no endereço <endereço>,
 confirmo que recebi o salário de <salario>, na data <data>.
  */
-public class TiposPrimitivosExercício03 {
+public class A03TiposPrimitivosExercício {
     public static void main(String[] args) {
         String name = "Rebecca";
         String address = "Street 21";

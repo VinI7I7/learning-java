@@ -1,6 +1,6 @@
 package learningjava.introducao;
 
-public class  TiposPrimitivos02 {
+public class A02TiposPrimitivos {
     public static void main(String[] args) {
     // int, double, float, char byte short, long, boolean
         int age = 25;
