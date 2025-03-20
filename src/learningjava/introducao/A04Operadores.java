@@ -31,5 +31,23 @@ public class A04Operadores {
         boolean isDentroDaLeiMenorQueTrinta = age < 30 && salary >= 3381;
         System.out.println(isDentroDaLeiMenorQueTrinta);
         System.out.println(isDentroDaLeiMaiorQueTrinta);
+
+        // = += -= *= /= %= atribuicao
+
+        double bonus = 1000;
+        bonus += 5000;
+        System.out.println(bonus);
+        bonus -= 1000;
+        System.out.println(bonus);
+        bonus %=51;
+        System.out.println(bonus);
+
+        //++ --
+        int count = 0;
+        count ++;
+        System.out.println(count);
+        ++count;
+        System.out.println(count++);
+
     }
 }
